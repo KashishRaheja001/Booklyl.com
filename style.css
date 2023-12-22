@@ -18,7 +18,7 @@ body {margin:0;}
 
 .section-1{
     padding:40px;
-    background-image: url("/New_images/BG1.jpeg");
+    background-image: url("/BG1.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
